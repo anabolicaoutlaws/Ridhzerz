@@ -17,7 +17,4 @@ export default defineConfig({
     },
   },
 });
-export default defineConfig({
-  base: '/Ridhzerz/',
-  // ... rest of config
-});
+
